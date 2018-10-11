@@ -5,7 +5,7 @@ Commands utiles :
 - Inspecter un container : docker inspect <ID_CONTAINER>
 - Afficher les logs d'un container : docker logs <ID_CONTAINER>
 - Afficher les networks d'un container : docker networks -ls
-- 
+- Pull docker : docker pull <IMAGE_NAME>
 
 Exercices 01:
 
